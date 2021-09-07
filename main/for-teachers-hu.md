@@ -1,344 +1,342 @@
-page_title: For teachers — Hedy
+page_title: Tanároknak — Hedy
 ---
-It's great that you want to bring Hedy into your classroom! On this page you'll find all the tips & tricks to make your Hedy lessons run as smoothly as possible. 
+Nagyszerű, hogy be akarod vinni Hedyt az osztályodba! Ezen az oldalon minden tippet és trükköt megtalálsz, hogy a Hedy leckéi a lehető legegyszerűbben menjenek.
 
-## Introduction Hedy
+## Hedy bevezetés
 
-### What's Hedy?
+### Mi az a Hedy?
 
-Hedy is a textual programming language, specifically developed for (pre-)teens (10 to 15 years old). In contrast to programming languages for kids, like Scratch, Hedy doesn't use code blocks but textual code. So with Hedy you'll learn how to type code like the real programmers do, but in small steps with playful exercises. 
+A Hedy egy szöveges programozási nyelv, amelyet kifejezetten (fiatal) tizenévesek (10-15 évesek) számára fejlesztettek ki. A gyerekek programozási nyelveivel ellentétben, mint a Scratch, Hedy nem kódblokkokat, hanem szöveges kódokat használ. Tehát Hedy segítségével a diákok megtanulhatják, hogyan kell olyat kódot írni, mint amilyet az igazi programozók, de apró lépésekben játékos gyakorlatokkal.
 
-This way Hedy can function as a stepping stone to real programming languages like Python in an accessible and mostly fun way! 
+Így Hedy lépcsőfokként szolgálhat a valódi programozási nyelvekhez, mint például a Python, elérhető és többnyire szórakoztató módon! 
 
-Here you can watch a [video](https://www.youtube.com/watch?v=EdqT313rM40&amp;t=2s) about the development of Hedy as a programming language. 
+Itt látható egy [videó](https://www.youtube.com/watch?v=EdqT313rM40&amp;t=2s) a Hedy mint programozási nyelv fejlődéséről. 
 
-### Target audience
+### Célközönség
 
-Hedy's developed with middle school and junior high school students in mind (ages 10 - 15). It's important for the students to be able to read well. We recommend not to start with Hedy before the students have achieved at least a 3rd grade reading level. Students (and teachers!) don't need any programming experience before starting with Hedy. 
+A Hedy-t a felső tagozatos és középiskolás diákok szem előtt tartásával fejlesztették ki (10-15 évesek). Fontos, hogy a diákok jól tudjanak olvasni. Javasoljuk, hogy ne kezdj Hedy-vel tanítani, mielőtt a diákok nem érték el legalább a 3. osztály olvasási szintjét. A diákoknak (és a tanároknak) nincs szükségük programozási tapasztalatokra, mielőtt Hedy -vel kezdenének dolgozni.
 
-### Teaching with Hedy
-Hedy is divided into levels, in which new commands are taught.Each level contains a variety of exercises to practice to newly learned commands. The exercises can be done by the students individually, or you can use them in classical instructions. The lesson plans for each level are included in this teacher manual. The lesson plans and exercises are explained step by step, to make sure the less digitally informed teachers should be able to use Hedy too! 
+### Tanítás a Hedy-vel
+Hedy szintekre van osztva, amelyek új parancsokat tanítanak. Minden szint különféle gyakorlatokat tartalmaz az újonnan tanult parancsok gyakorlására. A gyakorlatokat a diákok egyénileg is elvégezhetik, vagy használhatják hagyományos utasításokbkal. Az egyes szintek óraterveit ez a tanári kézikönyv tartalmazza. Az óraterveket és gyakorlatokat lépésről lépésre ismertetjük, hogy a kevésbé digitálisan tájékozott tanárok is tudják használni a Hedyt!
 
-Of course Hedy also caters to the creative teachers that love to make their own lessonplans and exercises! 
+Természetesen Hedy gondoskodik a kreatív tanárokról is, akik szeretnek saját óraterveket és gyakorlatokat készíteni!
 
-### Devices
+### Eszközök
 
-Hedy is webbased, which means it works on any device with a browser (Google Chrome, FireFox, Edge etc), so laptops, chromebooks, tablets and even smartphones are suitable to use Hedy. There's no need to download anything before working with Hedy, just go to the website and you're all set! 
+A Hedy webalapú, ami azt jelenti, hogy bármilyen böngészővel rendelkező eszközön (Google Chrome, FireFox, Edge stb.) működik, így laptopok, chromebookok, táblagépek és még okostelefonok is alkalmasak a Hedy használatára. Nem kell semmit letölteni, mielőtt Hedyvel dolgozol, csak menj a webhelyre, és készen áll!
 
-## Preparations
+## Előkészületek
 
-### Log in 
+### Belépés 
 
-To start programming with Hedy, visit this website: 
+A Hedy programozásának megkezdéséhez keresd fel ezt a webhelyet:
 
 [https://www.hedycode.com/](https://www.hedycode.com/)
 
-Click on Login in the upper right corner. Here you can log in with your username and password. Is this your first time using Hedy? Click the green button Create an account. 
+Kattints a Bejelentkezés gombra a jobb felső sarokban. Itt bejelentkezhetsz a felhasználóneveddel és jelszavaddal. Ez az első alkalom, hogy Hedy -t használsz? Kattints a zöld gombra Fiók létrehozása.
 
-Mind: Choose a username and password that you can easily remember, or write it down somewhere! 
+Figyelj: Válassz olyan felhasználónevet és jelszót, amely könnyen megjegyezhető, vagy írd le valahová!
 
-### Saving programs
+### Programok mentése
 
-As soon as you are logged in, you'll see the blue banner with My profile and My programs. 
+Amint bejelentkezel, egy kék sáv jelenik meg a Saját profil és a Saját programok elemmel.
 
-In My programs you can find all the codes that you've saved. 
+A Saját programok oldalon megtalálhatod az összes mentett kódot.
 
-You can save your projects easily by giving your project a name in the white bar and pressing the green button Save Code.
+Könnyen mentheted a projektjeidet, ha nevet adsz a projektnek a fehér sávban, és megnyomod a zöld Kód mentése gombot.
 
 ![](RackMultipart20210420-4-19s02r2_html_5657fc35812eb727.png)
 
-Let the programming fun begin! 
+Kezdődjön a programozási móka! 
 
-## Teaching with Hedy Level 1
+## Tanítás a Hedy-vel 1. szint
 
-### What do the students learn in this level?
+### Mit tanulnak a diákok ezen a szinten?
 
-Level 1 is the introductory level of Hedy. The students will learn 3 new commands with which they can write their first codes! This level has been made easily accessible for all students, to make sure they'll have a positive first experience in programming. 
+Az 1. szint a Hedy bevezető szintje. A diákok megtanulnak 3 új parancsot, amelyekkel írhatják első kódjaikat! Ezt a szintet könnyen hozzáférhetővé tették minden diák számára, hogy biztosan pozitív tapasztalataik legyenek a programozásban. 
 
-### New commands
+### Új parancsok
 
-`print`- This command makes text appear in the output screen. 
+`print`- Ez a parancs megjeleníti a szöveget a kimeneti képernyőn.
 
-`ask` - This command allows you to ask a question to the player. 
+`ask` - Ez a parancs lehetővé teszi, hogy kérdéseket tegyen fel a játékosnak. 
 
-`echo` - This command allows you to repeat the given answer to your question. Mind: Echo only works in level 1. In level 2 variables are introduced for repeating given answers. 
+`echo` - Ez a parancs lehetővé teszi, hogy megismételtesd a kérdésre adott választ. Figyelj: Az Echo csak az 1. szinten működik. A 2. szint változót vezetünk be az adott válaszok ismétléséhez. 
 
-### Exercises for level 1
+### Gyakorlatok az 1. szinten
 
-- Hedy the fortune teller
-- Writing a story
+- Hedy, a jósnő
+- Történetet írni
 
-### Frequently made mistakes 
+### Gyakran elkövetett hibák 
 
-These are the frequently made mistakes by students in level 1: 
+Ezek a leggyakrabban elkövetett hibák az 1. szinten a diákok körében:
 
-- Students forget to type the commands and write a code without starting with `print` for example. 
-- Students start the commands with a capital letter, even though all letters should be lowercase. 
-- Sometimes students will get error messages from their browser that Hedy doesn't work as it's supposed to. The solution is to refresh the webpage. 
+- A diákok elfelejtik beírni a parancsokat és írnak egy kódot, anélkül, hogy például `print' utasítással kezdenék.
+- A diákok nagybetűvel kezdik a parancsokat, annak ellenére, hogy minden betűnek kisbetűnek kell lennie.
+- Néha a diákok hibaüzeneteket kapnak a böngészőjükből, hogy Hedy nem úgy működik, ahogy kellene. A megoldás a weboldal frissítésee. 
 
-### Lesson Plan 1
+### 1. óraterv
 
-This is an example of how you could plan lesson 1. The Hedy lessons are between 30 and 60 minutes each. Lesson 1 is a bit longer on account of setting up accounts with the students. You could also choose to let the students create the accounts beforehand. 
+Ez egy példa arra, hogyan tervezheted meg az 1. leckét. A Hedy leckék mindegyike 30 és 60 perc közötti. Az 1. lecke egy kicsit hosszabb, mivel fiókokat hoznak létre a diákok. Azt is választhatod, hogy a diákok előzetesen létrehozzák a fiókokat.
 
-#### Introduction: Activating prior knowledge (5-10 minutes)
+#### Bevezetés: Az előzetes tudás aktiválása (5-10 perc)
 
-- What do students know about programming?
-- Are there any students with programming experience, like scratch?
-- What is programming exactly?
-_Programming is nothing other than giving instructions to a computer or robot in their own language: programming language. The programming language in this course is called Hedy. It's been developed for students betweens the ages of 10 and 15, so students that are a bit too old for the kids' programming languages, but still have trouble understanding the 'real' programming languages._
+- Mit tudnak a diákok a programozásról?
+- Vannak olyan tanulók, akik programozói tapasztalattal rendelkeznek, mint a Scratch?
+- Mi is pontosan a programozás?
+_A programozás nem más, mint utasításokat adni a számítógépnek vagy a robotnak a saját nyelvükön: programozási nyelven. A programozási nyelv ezen a tanfolyamon a Hedy. A 10 és 15 év közötti diákok számára fejlesztették ki, így azoknak a diákoknak, akik egy kicsit túl idősek a gyerekek blokkprogramozási nyelveihez, de még mindig nehezen értik az „igazi” programozási nyelveket.
 
-#### Creating an account (10 minutes)
+#### Fiók létrehozása (10 perc)
 
-The students create their own account, as shown in the introduction of this manual. 
+A diákok létrehozzák saját fiókjukat, ahogy ez a kézikönyv bevezetőjében látható.
 
-#### Discovering Hedy (5 minutes)
+#### Hedy felfedezése (5 perc)
 
-It's smart to allow your students to mess around for a bit when using Hedy for the first time. This way they can discover level 1 and try all the buttons. This doesn't have to take long. 
+Okos dolog, ha engedélyezed a diákoknak, hogy kicsit próbálkozzanak, amikor először használják Hedyt. Így felfedezhetik az 1. szintet, és kipróbálhatják az összes gombot. Ennek nem kell sokáig tartania. 
 
-#### General instructions of Hedy (5 minutes)
-Show your students… 
+#### Hedy általános utasításai (5 perc)
+Mutasd meg tanulóidnak…
 
-- The input screen, where you type the code. 
-- The output screen, where your code will be executed. 
-- the 'Try this' buttons, that allow you to try new commands. 
-- The button to save your programs. 
+- A beviteli képernyő, ahol begépeli a kódot.
+- A kimeneti képernyő, ahol a kód végrehajtásra kerül.
+- a "Try this" gombokkal új parancsokat próbálhat ki.
+- A programok mentésére szolgáló gomb. 
 
-#### Let's get to work! (20 minutes)
+#### Menjünk dolgozni! (20 perc)
 
-Show the 3 commands of level 1 to your students and let them make up codes themselves. When all the students have created their own codes, you can start with the fortune teller exercise. This exercise is worked out step by step in the assignment booklet. Je can choose to let the students work on the exercises independently or you can work on them with the whole class together. 
+Mutasd meg az 1. szint 3 parancsát a tanulóidnak, és hagyd, hogy maguk készítsenek kódokat. Ha minden diák elkészítette saját kódját, akkor kezdjék el a jósnő gyakorlatot. Ezt a gyakorlatot lépésről lépésre dolgozzuk ki a munkafüzetben. Dönthetsz úgy, hogy hagyod a diákokat, hogy önállóan dolgozzanak a gyakorlatokon, vagy te is dolgozhatsz velük az egész osztállyal együtt.
 
-#### Evaluation (5 minutes)
-Shortly evaluate the lesson to check if all the students accomplished to make a code. You can also ask your students how they liked programming (for the first time). Potentially, you could let some students show their codes to the whole class. 
+#### Értékelés (5 perc)
+Röviden értékeld az órát, és ellenőrizde, hogy minden tanuló eljutott-e a kód elkészítéséhez. Azt is megkérdezheted diákjaidtól, hogy tetszett nekik a programozás (először). Lehetséges, hogy néhány diák megmutathatja kódját az egész osztálynak.
 
-## Level 2
+## 2. szint
 
-### What do the students learn in this level?
+### Mit tanulnak a diákok ezen a szinten?
 
-Level 2 introduces variables. This can be a tough concept for the students, but by introducing it in a playful and understandable way, most students will pick it up quickly. 
-Level 2 also allows students to pick a random word from a list of a variable. This allows students to programm their first entry level games, like rock, paper, scissors or the fortune teller. This really increases the students' enthusiasm!
+A 2. szint változókat vezet be. Ezt nehéz lehet elképzelésni a diákok számára, de játékos és érthető módon történő bevezetésével a legtöbb diák gyorsan megérti azt.
+A 2. szint lehetővé teszi a tanulók számára, hogy véletlenszerű szót válasszanak egy változó listájából. Ez lehetővé teszi a diákok számára, hogy programozzák első belépő szintű játékaikat, mint például a kő, papír, olló vagy a jósnő. Ez valóban növeli a diákok lelkesedését!
 
-### New commands
+### Új parancsok
 
-In level 2 variables are introduced. In the examples below, the variable animals is used, but of course anything could be a variable. 
+A 2. szinten változókat vezetünk be. Az alábbi példákban a változó állatokat jelöl, de természetesen bármi lehet változó.
 
-`animals is dog, cat` - With this command you can create a variable, like animals. You can 'fill' the variable with one or multiple words or numbers.
+`allatok is kutya, macska` - Ezzel a paranccsal létrehozhatsz egy változót, mint az allatok. A változót „kitöltheted” egy vagy több szóval vagy számmal.
 
-`animals is ask What is your favourite animal?` - Mind that `ask` works differently than in level 1! In level 2 you have to start with a variable before using ask. 
+`allatok is ask Melyik a kedvenc állatod?` - Ne feledd, hogy az `ask` másképp működik, mint az 1. szinten! A 2. szinten az ask használata előtt változóval kell kezdeni.
 
-`print animals at random` - Hedy picks a random word or number from the list of animals that you've made.
+"print allatok at random" - Hedy kiválaszt egy véletlenszerű szót vagy számot az allatok listájából.
 
-### Exercises with this level 
+### Ilyen szintű gyakorlatok
 
-- Story
-- Fortune Tellen
-- Rock, paper, scissors
-- Who's doing the dishes?
+- Történet
+- Jósnő
+- Kő papír olló
+- Ki mosogat?
 
-### Frequently made mistakes in level 2
+### Gyakran elkövetett hibák a 2. szinten
 
-These are the frequently made mistakes in level 2:
+Ezek a leggyakrabban elkövetett hibák a 2. szinten:
 
-- Students make typos in the commands. 
-- Students often forget to type the variable when using the ask command (like they were able to do in level 1). 
-- Students sometimes tend to forget to type the commands at all, for instance they start their code without typing print first. 
-- Students use the command echo, which only works in level 1. In level 2 you can repeat a given answer by using the variable. 
-- Students forget to use commas when making a list. For instance, they would make this code: 
- `animals is dog cat` instead of `animals is dog, cat`
-- Students tend to use commas after a `print` command, this is not possible.
-E.g. they program: `print Hello, I'm Hedy` instead of `print Hello I'm Hedy`
+- A diákok gépelési hibákat írnak a parancsokban.
+- A diákok gyakran elfelejtik beírni a változót az ask parancs használatakor (mint az 1. szinten tudták).
+- A diákok néha hajlamosak elfelejteni a parancsok beírását, például elindítják a kódot anélkül, hogy először beírnák a printet.
+- A diákok az echo parancsot használják, amely csak az 1. szinten működik. A 2. szinten megismételhetik az adott választ a változó használatával.
+- A diákok elfelejtenek vesszőt használni listázáskor. Például ezt a kódot készítik:
+  "allatok is kutya macska" az "allatok is kutya, macska" helyett
+- A diákok általában vesszőt használnak a "print" parancs után, ez nem lehetséges.
+Például ezt programozzák: "print Hello, I'm Hedy" a "print Hello I'm Hedy" helyett
 
-- Students use the name of a variable as a word in a print command, this is allowed from level 3 on. 
+- A tanulók a változó nevét szóként használják a print parancsban, ez a 3. szinttől engedélyezett.
 
-E.g. They program: 
+Például. Ők programozzák:
 
-```
-animals is dog, cat, cow
-print the best animals are…
-print animals at random
-```
-Instead they should change the word animals in the second line into something other than animals. For example: 
+""
+allatok is kutya, macska, tehén
+print a legjobb allatok ...
+print allatok at random
+""
+Ehelyett az allatok szót a második sorban valami másra kell változtatniuk, mint az allatok. Például:
 
-```
-animals is dog, cat, cow
-print the best animal is…
-print animals at random
-```
+""
+allatok is kutya, macska, tehén
+print a legjobb állat ...
+print allatok at random
+""
 
-### Lesson Plan 2
+### 2. óraterv
 
-#### Introduction: Activating prior knowledge (2 minutes)
-Briefly discuss the previous lesson with the students: What did they learn and which difficulties did they come across. Emphasize the `print` and `ask` commands, because they won't be able to use `echo` anymore in level 2. 
+#### Bevezetés: Az előzetes tudás aktiválása (2 perc)
+Beszéld meg röviden a diákokkal az előző leckét: Mit tanultak és milyen nehézségekkel találkoztak. Hangsúlyozd a "print" és "ask" parancsokat, mert a 2. szinten már nem tudják használni az "echo" parancsot.
 
-#### Instruction: What's a variable? (10 minutes)
-After the intro, you can introduce the concept of a variable to your students. A variable is a word that can contain a lot of different values, so it can change all the time. This may sound difficult, but I'm sure you've seen variables before without knowing they were a variable. For example: Think of your age. Everyone has a different age, and your age changes every year. Length is such a number too, just like your grades for a test, or the score in a game: All of these numbers are variables. 
+##### Utasítás: Mi az a változó? (10 perc)
+A bevezető után bemutathatod diákjainak a változó fogalmát. A változó olyan szó, amely sokféle értéket tartalmazhat, így folyamatosan változhat. Ez nehéznek tűnhet, de biztos vagyok benne, hogy láttál már változókat, anélkül, hogy tudtad volna, hogy változó. Például: Gondolj a korodra. Mindenkinek más a kora, és az életkora évről évre változik. A hosszúság is ilyen szám, akárcsak a teszt érdemjegyei, vagy a játékban elért pontszámok: Mindezek a számok változók.
 
-A variable doesn't have to be a number, it can also be (a list of) words, like your name. You can use this example in Hedy to demonstrate: 
-
-```
-name is Hedy
-print Hi name!
-```
-This shows that you can determine the value of a variable in your code. But you can also ask the player what the variable should be. Like in the next example:
+A változónak nem feltétlenül számnak kell lennie, hanem lehet szavak listája is, például a neved. Ezt a példát használhatod Hedyben a következők bemutatására: 
 
 ```
-Name is ask What are you called?
-print Hi name
+nev is Hedy
+print Hi nev!
 ```
-
-Expand on the example by adding the variable age: 
-```
-name is ask What are you called?
-print Hi name!
-age is ask How old are you?
-print You are age years old
-```
-
-#### Try it! (10 minutes) 
-Let your students try to make these codes themselves or let them think of their own versions. 
-
-#### At random (15 minutes) 
-The fun thing about variables is that you can let Hedy pick a random value from your list. Show your students this example and let them get to work on their own codes afterwards: 
+Ez azt mutatja, hogy meghatározhatod egy változó értékét a kódban. De azt is megkérdezheted a játékostól, hogy mi legyen a változó. Mint a következő példában:
 
 ```
-Choices is rock, paper, scissors
-print choices at random
+nev is ask Hogy hívnak?
+print Hi nev
+```
+
+Bővítsd a példát az életkor változó hozzáadásával:
+```
+nev is ask Hogy hívnak?
+print Hi nev!
+kor is ask Hány éves vagy?
+print Te kor éeves vagy
+```
+
+#### Próbáld ki! (10 perc)
+Hagyd, hogy diákjai megpróbálják saját maguk elkészíteni ezeket a kódokat, vagy saját verzióikat hozzanak létre.
+
+#### Véletlenszerűen (15 perc)
+A változók szórakoztató tulajdonsága az, hogy hagyhatod, hogy Hedy véletlenszerű értéket válasszon a listájából. Mutasd meg a diákoknak ezt a példát, és hagyd, hogy utána a saját kódjaikon dolgozzanak:
+
+```
+valasztas is kő, papír, olló
+print valasztas at random
 ```
 
 ```
-clubs is FC Barcelona, Bayern Munchen, Manchester United
-print the best football club is...
-print clubs at random
+klubok is FC Barcelona, Bayern München, Manchester United
+print a legjobb fociklub...
+print klubok at random
 ```
 
-#### Student assignment: The fortune teller (20 min) 
+#### Tanulói feladat: A jósnő (20 perc)
 
 ```
-print I'm Hedy the fortune teller!
-question is ask What do you want to know?
-print This is what you want to know: question
-answers is yes, no, maybe 
-print my crystal ball says...
-print answers at random
+print Hedy vagyok a jósnő!
+kerdes is ask Mit akarsz tudni?
+print Ez az, amit tudni akarsz: kerdes
+valasz is igen, nem, talán
+print A kristálygömböm azt mondja...
+print valasz at random
 ```
 
-#### Evaluation (5 min)
-Briefly evaluate the lesson with your students to round up the lesson. 
+#### Értékelés (5 perc)
+Röviden értékeld a leckét a diákokkal a lecke lezárásához.
 
-## Level 3
+## 3. szint
 
-### What will the students learn in this level?
+### Mit tanulnak a diákok ezen a szinten?
 
-There are no new functions in level 3. The only change is that students have to use quotation marks when using `print`. 
+A 3. szinten nincsenek új funkciók. Az egyetlen változás az, hogy a diákoknak idézőjeleket kell használniuk a `print' használatakor.
 
-### New commands
+### Új parancsok
 
-`print 'Hello world'` - Quotation marks are used when using print. 
+print 'Helló világ' - Az idézőjelek szükségesek a print használatakor.
 
-### Assignments
+### Feladatok
 
-- The same smaller assignments as level 2
-- Fortune Teller
-- Haunted House
+- Ugyanazok a kisebb feladatok, mint a 2. szint
+- Jósnő
+- Kísértetház
 
-### Frequently made mistakes
+### Gyakran elkövetett hibák
 
-These are the frequently made mistakes by students in level 3
+Ezeket a hibákat követik el gyakran a 3. szinten a tanulók
 
-- The same mistakes as level 2. 
-- Students forget putting the quotation marks on both sides of the text after a print command. 
-- Students use the wrong quotation marks. The correct quotation mark is ' you find in next to the enter button on most keyboards. Different quotation marks like the double marks &quot; or the skewed quotation mark ` (found in the left corner with ~) will not work.
-- Students use quotation marks in the `ask` command, even though this is not necessary. 
+- Ugyanazok a hibák, mint a 2. szinten.
+- A tanulók elfelejtik az idézőjelet a szöveg mindkét oldalára beszúrni.
+- A diákok rossz idézőjeleket használnak. A helyes idézőjel a legtöbb billentyűzeten az Enter gomb mellett található. Különböző idézőjelek, például a kettős vagy a ferde idézőjel `(a bal sarokban található ~) nem működik.
+- A diákok idézőjeleket használnak az `ask` parancsban, bár ez nem szükséges. 
 
-### Lesson Plan 3
-The third lesson is mainly focussed on adding quotation marks to the print command. This is often a struggle for students. Therefore the instruction in this lesson plan is concise, and there is a lot of time scheduled for the students to practice. 
+### 3. óraterv
+A harmadik lecke főként idézőjelek hozzáadására összpontosít a print parancshoz. Ez gyakran küzdelem a diákok számára. Ezért az ebben az óravázlatban szereplő utasítás tömör, és sok idő van a diákok gyakorlására.
 
-#### Activating prior knowledge and instruction quotation marks(10 minutes)
-Start off the lesson by repeating the commands learned in the previous lesson. Explain that level 3 requires you to add quotation marks to your codes after using the print command. The code below shows the importance or practicality of using quotation marks. Mind: Show your students the code in level 2 first! 
+#### Előzetes tudás és utasítás idézőjelek aktiválása (10 perc)
+Kezdd a leckét az előző leckében tanult parancsok megismétlésével. Magyarázd el, hogy a 3. szint megköveteli, hogy idézőjelet adjunk a kódokhoz a print parancs használata után. Az alábbi kód az idézőjelek használatának fontosságát vagy gyakorlatiasságát mutatja. GFigyelj: Először mutasd meg diákjaidnak a 2. szintű kódot!
+""
+haziallat is kutya, cica, nyuszi
+print Ez a haziallat a tied: 
+print haziallat at random
 ```
-pet is dog, cat, bunny
-print You get this pet: 
-print pet at random
-```
-You'll see that the word pet is line 2 doesn't work. It's been changed to the value of the variable pet even though you meant to use it as a normal word. In level 3 this problem is solved by using the quotation marks. The quotation marks tell Hedy that everything between the quotation marks is supposed to be a normal word, that should be printed. Everything outside of the quotation marks is a variable or a command. Show this example in level 3. 
-
-```
-pet is dog, cat, bunny
-print 'You get this pet: '
-print pet at random
-```
-
-Note that the quotation marks are used to tell Hedy what text should be printed. This means you can't use quotation marks for other purposes like contracting words or possession apostrophe. Show your students that this means this code will not work, because of the apostrophe in line 2. 
+Látni fogod, hogy a haziallat szó a 2. sorban nem működik. A haziallat változó értékére módosult, annak ellenére, hogy normál szóként akartad használni. A 3. szinten ezt a problémát az idézőjelek segítségével oldják meg. Az idézőjelek azt mondják Hedynek, hogy az idézőjelek között lévő minden szó normális szó, ezt ki kell írni. Az idézőjeleken kívül minden változó vagy parancs. Mutasd meg ezt a példát a 3. szinten.
 
 ```
-pet is dog, cat, bunny
-print 'You'll get this pet: '
-print pet at random
-```
-Fix it by removing the apostrophe. 
-
-```
-pet is dog, cat, bunny
-print 'Youll get this pet: '
-print pet at random
+haziallat is kutya, cica, nyuszi
+print 'Ez a háziallat a tied:' 
+print haziallat at randomm
 ```
 
-Before the students get to work, pay attention to the frequently made mistakes: 
-There should always be a quotation mark before and one after the text you want to print. So always check whether all print commands have 2 quotation marks. 
-Students must use the right quotation marks. The correct quotation mark is ' you find in next to the enter button on most keyboards. Different quotation marks like the double marks &quot; or the skewed quotation mark ` (found in the left corner with ~) will not work.
-`ask` does not require quotation marks, only `print` does. 
+Ne feledd, hogy az idézőjelek segítségével a Hedy megmondja, milyen szöveget kell kiíratni. Ez azt jelenti, hogy nem használhatsz idézőjeleket más célokra. Mutasd meg diákjainak, hogy ez azt jelenti, hogy ez a kód nem fog működni a 2. sorban található aposztróf miatt.
+```
+haziallat is kutya, cica, nyuszi
+print 'Ezt az 'igazi' állatod kapod:'
+print haziallat at random
+```
+Javítsd ki az aposztróf eltávolításával.
 
+```
+haziallat is kutya, cica, nyuszi
+print 'Ezt az igazi állatod kapod:'
+print haziallat at random
+```
+
+Mielőtt a diákok munkába állnának, figyelj a gyakran elkövetett hibákra:
+Mindig legyen idézőjel a kiíratni kívánt szöveg előtt és után. Ezért mindig ellenőrizd, hogy az összes nyomtatási parancsnak van-e 2 idézőjele.
+A diákoknak a megfelelő idézőjeleket kell használniuk. A helyes idézőjel a legtöbb billentyűzeten az Enter gomb mellett található. Különböző idézőjelek, például a kettős vagy a ferde idézőjel `(a bal sarokban található ~) nem működik.
+Az "ask" nem igényel idézőjelet, csak a "print".
 #### Let's get to work! (15 minutes)
-Remake your level 2 codes with quotation marks in level 3. 
+Készítsd el újra a 2. szintű kódokat idézőjelekkel a 3. szinten.
 
-#### The Haunted House (20 minutes) 
-After the students remade their level 2 fortune teller assignment in level 3, they can get started with the haunted house. 
+#### A kísértetház (20 perc)
+Miután a diákok újraértékelték a 2. szintű jósnő feladatot a 3. szinten, elkezdhetik a kísértetjárta házat.
 
-#### Evaluation
-Wrap up the lesson by evaluating what the students learned in this lesson. 
+#### Értékelés
+Zárd le az órát úgy, hogy értékeled, mit tanultak a tanulók ebben a leckében.
 
 
-## Level 4
+## 4. szint
 
-### What will the students learn in this level? 
+### Mit tanulnak a diákok ezen a szinten?
 
-Level 4 introduces the if and else commands, which creates a lot of options. This results in lots of new and fun possibilities for the students, but can also be confusing to them as the chance of making a mistake increases considerably. The codes will also become a bit longer than in the previous levels, which makes it harder for students to detect their own faults. 
+A 4. szint bevezeti az if és else parancsokat, ami sok lehetőséget teremt. Ez sok új és szórakoztató lehetőséget eredményez a diákok számára, de zavaró is lehet számukra, mivel a hibázás esélye jelentősen megnő. A kódok egy kicsit hosszabbak lesznek, mint az előző szinteken, ami megnehezíti a diákok számára saját hibáik észlelését.
 
-### New commands
+### Új parancsok
 
-`if name is Hedy print 'nice' else print 'boo!'` - This command allows you to let Hedy give two different responses; a response for when the name is Hedy, and one for all the other names. 
+if nev s Hedy print 'Szép' else print 'Uhh!' - Ez a parancs lehetővé teszi, hogy Hedy két különböző választ adjon; válasz arra, amikor a név Hedy, és egy válasz az összes többi névre.
 
-### Assingments
+### Értékelések
 
-- Hedy de Waarzegger
-- Spookhuisgame
+- Hedy, a jósnő
+- Kísértetház
 -
 
-### Frequently made mistakes
+### Gyakran elkövetett hibák
 
-These are the frequently made mistakes by students in level 4: 
+Ezek a leggyakrabban elkövetett hibák a 4. szintű tanulók körében:
 
-- Mistake: Students put else on the next line, but it should be in the same line as the if command. 
-Code: 
+- Hiba: A diákok a következő sorba teszik az else utasítást, de annak ugyanabban a sorban kell lennie, mint az if parancsnak. 
+Kód: 
 ```
-if name is Hedy print 'nice'
-else print 'boo!'
+if nev is Hedy print 'szép'
+else print 'Uhh!'
 ```
-Solution: Else should be in the same line as if. 
+Megoldás: Else utasítás ugyanabban a sorban kell legyen, mint a ha utasítás.
 
 ```
-if name is Hedy print 'nice' else print 'boo!'
+if nev is Hedy print 'szép' else print 'uhh!'
 ```
-- Mistake: Students use apostrophes after a print command. 
+- Hiba: A diákok a print parancs után aposztrófokat használnak.
+""
+print ' 'Hedy' vagyok'
 ```
-print 'I'm Hedy'
+Megoldás: Ne használ aposztrófot.
 ```
-Solution: Don't use apostrophes.
+print 'Hedy vagyok'
 ```
-print 'Im Hedy'
+- Hiba: A diákok elfelejtik használni a print parancsot az if parancs használatakor.
 ```
-- Mistake: Students forget to use the print command when using an if command.
-```
-if name is Hedy 'nice' else 'boo!'
+if nev is Hedy 'szép' else 'uhh'
 ```
 Solution: Use print twice when using both if and else. 
 ``` 
